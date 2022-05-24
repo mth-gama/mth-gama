@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=white&width=650&height=30&lines=print(+%22Ol%C3%A1+dev!+Eu+sou+Matheus%2C+e+esse+%C3%A9+meu+GitHub%22+))](https://git.io/typing-svg)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=mth-gama&show_icons=true&theme=react&include_all_commits=true">|<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mth-gama&show_icons=true&theme=react&layout=compact" height="150"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=mth-gama&show_icons=true&theme=react&include_all_commits=true">|<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mth-gama&show_icons=true&theme=react&layout=compact" height="150"></a>
 |--|--|
 
 <br/>  
