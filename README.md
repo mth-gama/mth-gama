@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=white&width=650&height=30&lines=print(+%22Ol%C3%A1+dev!+Eu+sou+Matheus%2C+e+esse+%C3%A9+meu+GitHub%22+))](https://git.io/typing-svg)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mth-gama&show_icons=true&theme=react)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mth-gama&show_icons=true&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=mth-gama&show_icons=true&theme=react&include_all_commits=true">|<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mth-gama&show_icons=true&theme=react&layout=compact" height="150"></a>
+|--|--|
 
 <br/>  
 <a href="https://github.com/a](https://github.com/mth-gama" target="_blank">
@@ -25,22 +26,3 @@
 ![snake gif](https://github.com/mth-gama/mth-gama/blob/output/github-contribution-grid-snake.svg)
 
 
-
-
-
-
-
-<!--
-**mth-gama/mth-gama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
