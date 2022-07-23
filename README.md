@@ -23,11 +23,5 @@
 
 ----
 ![snake gif](https://github.com/mth-gama/mth-gama/blob/output/github-contribution-grid-snake.svg)
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-
-&nbsp; <br> [![Spotify](https://open.spotify.com/user/31wotnk77bgflqkahcstjcbe23um?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
-</table>
 
 
